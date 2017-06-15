@@ -1,5 +1,4 @@
-sdfasdf
-asdf
-asdf
-asfadsf
-asdf
+class Employee{
+public function __construct(){
+}
+}
